@@ -1,0 +1,16 @@
+{
+  "name": "habbo.js",
+  "version": "1.0.0",
+  "description": "This Module request habbo api",
+  "main": "habbo.js",
+  "scripts": {
+    "start": "node habbo.js",
+    "test": "node test.js"
+  },
+  "author": "'Mu$t",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.4"
+  }
+}
