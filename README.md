@@ -1,3 +1,6 @@
+# Before you start
+languages may have errors, I did it using "google translate"
+
 # habbo.js
 
 ```shell
@@ -47,7 +50,11 @@ async function data(name, hotel, act, face) {
 }
 data(username, hotelname, action, face)
 ```
+# License
+habbo.js is released under the MIT License. See the bundled [LICENSE](https://github.com/must253/habbo.js/blob/main/LICENSE.txt) file for details.
+
+
 # Help
-If you don't understand something in the documentation, you are experiencing problems please don't hesitate asking your questions to ャ 'Mu$t#4528.
+If you don't understand something in the documentation,  please don't hesitate asking your questions to ャ 'Mu$t#4528.
 
 # [Server](https://discord.gg/y93aC9MwXC)
