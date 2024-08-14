@@ -55,6 +55,6 @@ habbo.js is released under the MIT License. See the bundled [LICENSE](https://gi
 
 
 # Help
-If you don't understand something in the documentation,  please don't hesitate asking your questions to ャ 'Mu$t#4528.
+If you don't understand something in the documentation,  please don't hesitate asking your questions to #bymustt.
 
 # [Server](https://discord.gg/y93aC9MwXC)
